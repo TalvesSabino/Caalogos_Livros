@@ -3,5 +3,13 @@
     <string name="txt_cadastrar">Cadastrar</string>
     <string name="txt_pesquisar">Pesquisar</string>
     <string name="txt_pesquisarpor">Pesquisar por</string>
+    <string name="txt_pesquisar_todos">Pesquisar Todo</string>
+    <string name="txt_id">id</string>
+    <string name="txt_titulo">Título</string>
 
+    <string name="txt_ano">Ano</string>
+    <string name="btn_salvar">Salvar</string>
+    <string name="btn_voltar">Voltar</string>
+    <string name="btn_title_activity_tela_cadastar">Catálogo Livros</string>
+    <string name="btn_title_activity_tela_pesquisar">Catálogo Livros</string>
 </resources>
